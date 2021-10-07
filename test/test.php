@@ -1,4 +1,10 @@
 <?php 
 phpinfo();
-echo "test";
+
+echo "master";
+
+echo "test2";
+
+echo "test3";
+
 ?>
